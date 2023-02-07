@@ -28,3 +28,6 @@ This small project can definitely be extended with more features, like
 ## API Docs for Reference
 
 woocommerce.github.io/woocommerce-rest-api-docs
+## Contribution
+
+Feel free to contribute to this mini-project !!!
